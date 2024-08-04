@@ -54,8 +54,6 @@ namespace MusicCrackBot
             //6. Initialize the CommandsNextExtention property
             CommandsNextExtension Commands = Client.UseCommandsNext(commandsConfig);
 
-
-        Commands.RegisterCommands<TestCMD>();
             Commands.RegisterCommands<MusicCMD>();
 
             //Lavalink Configuration

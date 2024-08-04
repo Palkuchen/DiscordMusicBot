@@ -5014,11 +5014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palkuchen\\source\\repos\\MusicCrackBot\\MusicCrackBot\\MusicCrackBot.csproj",
+      "projectUniqueName": "C:\\Users\\Palkuchen\\Source\\Repos\\DcMusicBot\\MusicCrackBot\\MusicCrackBot\\MusicCrackBot.csproj",
       "projectName": "MusicCrackBot",
-      "projectPath": "C:\\Users\\Palkuchen\\source\\repos\\MusicCrackBot\\MusicCrackBot\\MusicCrackBot.csproj",
+      "projectPath": "C:\\Users\\Palkuchen\\Source\\Repos\\DcMusicBot\\MusicCrackBot\\MusicCrackBot\\MusicCrackBot.csproj",
       "packagesPath": "C:\\Users\\Palkuchen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palkuchen\\source\\repos\\MusicCrackBot\\MusicCrackBot\\obj\\",
+      "outputPath": "C:\\Users\\Palkuchen\\Source\\Repos\\DcMusicBot\\MusicCrackBot\\MusicCrackBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
