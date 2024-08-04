@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicCrackBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a5104a59306ed2d5826e20e3c19f19b8dad8ece")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicCrackBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicCrackBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
