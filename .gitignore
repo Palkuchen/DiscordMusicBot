@@ -397,5 +397,11 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# extras
+*.exe
+*.dll
+*.pdb
+*.cache
+
 # Credentials File
 config.json
